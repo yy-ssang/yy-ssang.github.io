@@ -1,6 +1,6 @@
 # Site settings
 title: Sang-Hyeok Yang
-baseurl: "/cv"
+baseurl: ""
 url: "https://yy-ssang.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
