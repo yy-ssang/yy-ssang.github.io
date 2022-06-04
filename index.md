@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-One of a kind of [SKKU-STEM group](https://sites.google.com/site/skkustem/home) advised by [Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ) at [Sungkyunkwan university(SKKU)](https://www.skku.edu/skku/index.do)
+*One-of-a-kind* of [SKKU-STEM group](https://sites.google.com/site/skkustem/home) advised by [Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ) at [Sungkyunkwan university(SKKU)](https://www.skku.edu/skku/index.do)
 
 email : 0412ysh@skku.edu
 
