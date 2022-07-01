@@ -63,6 +63,8 @@ email : 0412ysh@skku.edu
 
 ## Presentation
 ### Oral
+  * Simultaneous mapping of elemental distribution and ionic displacement in multiferroic BiFeO<sub>3</sub> thin film via a picoscale-precision STEM-EDX
+    * 2022 Korean Society of Microscopy Spring
   * Deep learning-assisted quantification of atomic dopants and defects in 2D materials
     * The 2021 Fall Meeting of The Korean Ceramic Society
   * Deep Learning Assisted Quantification of Atomic Defects in 2D Materials
