@@ -78,6 +78,8 @@ email : 0412ysh@skku.edu
 
 ### Poster
   * Deep learning-assisted quantification of atomic defects in 2D materials
+    * Nano Korea 2022 Symposium
+  * Deep learning-assisted quantification of atomic defects in 2D materials
     * The 22nd International Conference on the Science and Applications of Nanotubes and Low-Dimensional Materials (NT22)
   * Simultaneous mapping of elemental distribution and ionic displacement in multiferroic BiFeO<sub>3</sub> thin film via a picoscale-precision STEM-EDX
     * 2022 Materials Research Society (MRS) Spring Meeting & Exhibit
