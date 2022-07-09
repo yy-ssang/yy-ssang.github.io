@@ -54,7 +54,7 @@ email : 0412ysh@skku.edu
     * Hanhwi Jang, Jong Ho Park, Ho Seong Lee, Byungki Ryu, Su-Dong Park, Hyeon-Ah Ju, **Sang-Hyeok Yang**, Young-Min Kim, Woo Hyun Nam, Heng Wang, James Male, G. Jeffrey Snyder, Minjoon Kim, Yeon Sik Jung\*, Min-Wook Oh\*
     * *Advanced Science* 2021 [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100895)
   * Atomic-scale chemical mapping of copper dopants in Bi<sub>2</sub>Te<sub>2.7</sub>Se<sub>0.3</sub> thermoelectric alloy
-    * Young-Min Kim*,†, Kyu Hyoung Lee†, Liangwei Fu†, Min-Wook Oh, **Sang-Hyeok Yang**, Shoucong Ning, Gyeongtak Han, Min Young Kim, Ji-Soo Kim, Myoungho Jeong, Jaeduck Jang, Eunha Lee, Okunishi Eiji, Sawada Hidetaka, Sang-il Kim, Stephen J. Pennycook, Young Hee Lee, Sung Wng Kim\*
+    * Young-Min Kim*<sup>,</sup>†, Kyu Hyoung Lee†, Liangwei Fu†, Min-Wook Oh, **Sang-Hyeok Yang**, Shoucong Ning, Gyeongtak Han, Min Young Kim, Ji-Soo Kim, Myoungho Jeong, Jaeduck Jang, Eunha Lee, Okunishi Eiji, Sawada Hidetaka, Sang-il Kim, Stephen J. Pennycook, Young Hee Lee, Sung Wng Kim\*
     * *Materials Today Physics* 2021 [[Paper]](https://www.sciencedirect.com/science/article/pii/S2542529321000080)
   * Atomic-scale identification of invisible cation vacancies at an oxide homointerface
     * Yong In Kim†, Myoungho Jeong†, Jinho Byun†, **Sang-Hyeok Yang**, Wooseon Choi, Woo-Sung Jang, Jaedeok Jang, Kiyoung Lee, Yongsung Kim, Jaekwang Lee\*, Eunha Lee\*, Young-Min Kim\*
