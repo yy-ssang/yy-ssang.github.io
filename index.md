@@ -10,9 +10,9 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Research Interests
-  * Scanning Transmission Electron Microscopy
-  * Data Analysis (STEM imaging, STEM-EDX, STEM-EELS, 4D-STEM, Etc.)
-  * Deep Learning & Machine Learning  
+  * Scanning Transmission Electron Microscopy (STEM imaging, STEM-EDX, STEM-EELS, 4D-STEM, Etc.)
+  * Data Analysis (Quantitative STEM, Post-processing STEM image/spectroscopy data, Etc.)
+  * Application Deep Learning & Machine Learning to STEM data 
 <br/>
 
 ## Education
