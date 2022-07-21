@@ -17,7 +17,7 @@ email : 0412ysh@skku.edu
   * Data Analysis
     * Quantitative STEM analysis
     * STEM image filtering / post-processing
-    * Spectroscopy analysis (drift correction, oxygen vacancy mapping, Etc.)
+    * Spectroscopy analysis
     * STEM simulation
   * Deep Learning & Machine Learning for STEM Data 
     * Signal enhancement of STEM data
