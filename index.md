@@ -9,19 +9,19 @@ email : 0412ysh@skku.edu
 
 <br/>
 
-## Research Interests
+## Research Interests / Analysis Techniques
   * Scanning Transmission Electron Microscopy(STEM)
     * STEM imaging
     * STEM-EDX / EELS
     * 4D-STEM
   * Data Analysis
-    * Quantitative STEM
+    * Quantitative STEM analysis
     * STEM image filtering / post-processing
     * Spectroscopy analysis (drift correction, Oxygen vacancy mapping, Etc.)
     * STEM simulation
   * Deep Learning & Machine Learning for STEM Data 
     * Signal enhancement of STEM data
-    * Automated quantitative STEM analysis
+    * Automation of quantitative STEM analysis
     * Manifold analysis of 4D-STEM / spectroscopy data
 <br/>
 
