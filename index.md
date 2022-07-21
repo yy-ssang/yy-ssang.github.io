@@ -10,7 +10,7 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Research Interests / Analysis Techniques
-  * Scanning Transmission Electron Microscopy(STEM)
+  * Scanning Transmission Electron Microscopy (STEM)
     * STEM imaging
     * STEM-EDX / EELS
     * 4D-STEM
@@ -26,7 +26,7 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Education
-  * **Sungkyunkwan University(SKKU)**, Mar. 2013 ~ Feb. 2019 
+  * **Sungkyunkwan University (SKKU)**, Mar. 2013 ~ Feb. 2019 
     * B.S. in Mechanical Engineering
 <br/>
 
