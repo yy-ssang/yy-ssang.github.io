@@ -22,7 +22,7 @@ email : 0412ysh@skku.edu
   * Deep Learning & Machine Learning for STEM Data 
     * Signal enhancement of STEM data
     * Automated quantitative STEM analysis
-    * Manifold analysis of 4D-STEM/spectroscopy data
+    * Manifold analysis of 4D-STEM / spectroscopy data
 <br/>
 
 ## Education
