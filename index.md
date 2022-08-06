@@ -53,7 +53,7 @@ email : 0412ysh@skku.edu
 ### Contributed Paper
   * Segmented tomographic evaluation of structural degradation of carbon support in proton exchange membrane fuel cells
     * Jung A. Hong†, Min-Hyoung Jung†, Sung Yong Cho†, Eun-Byeol Park, Daehee Yang, Young-Hoon Kim, **Sang-Hyeok Yang**, Woo-Sung Jang, Jae Hyuck Jang, Hyo June Lee, Sungchul Lee\*, Hu Young Jeong\*, Young-Min Kim\*
-    * *Journal of Energy Chemistry* 2022 
+    * *Journal of Energy Chemistry* 2022 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S2095495622004132){:target="_blank"}**
   * Highly enhanced ferroelectricity in HfO<sub>2</sub>-based ferroelectric thin film by light ion bombardment
     * Seunghun Kang†, Woo-Sung Jang†, Anna N. Morozovska†, Owoong Kwon, Yeongrok Jin, Young-Hoon Kim, Hagyoul Bae, Chenxi Wang, **Sang-Hyeok Yang**, Alex Belianinov, Steven Randolph, Eugene A. Eliseev, Liam Collins, Yeehyun Park, Sanghyun Jo, Min-Hyoung Jung, Kyoung-June Go, Hae Won Cho, Si-Young Choi, Jae Hyuck Jang, Sunkook Kim, Hu Young Jeong, Jaekwang Lee, Olga S. Ovchinnikova, Jinseong Heo\*, Sergei V. Kalinin\*, Young-Min Kim\*, Yunseok Kim\*
     * *Science* 2022 **[[Paper]](https://www.science.org/stoken/author-tokens/ST-486/full){:target="_blank"}**
