@@ -14,7 +14,7 @@ email : 0412ysh@skku.edu
     * STEM imaging
     * STEM-EDX / EELS
     * 4D-STEM
-  * Data Analysis
+  * Microscopy Data Analysis
     * Quantitative STEM analysis
     * STEM image filtering / post-processing
     * Spectroscopy analysis
