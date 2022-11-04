@@ -55,7 +55,7 @@ email : 0412ysh@skku.edu
 
 ### Contributed Paper
   * Enhanced selective photocatalytic oxidation of a bio-derived platform chemical with vacancy-induced core-shell anatase TiO<sub>2</sub> nanoparticles
-    * Woo-Sung Jang†, Vy Ngoc Pham†, **Sang-Hyeok Yang**, Jaeyoon Baik, Hangil Lee*, Young-Min Kim*
+    * Woo-Sung Jang†, Vy Ngoc Pham†, **Sang-Hyeok Yang**, Jaeyoon Baik, Hangil Lee\*, Young-Min Kim\*
     * *Applied Catalysis B-Environmental* 2022 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926337322010815){:target="_blank"}**
   * Segmented tomographic evaluation of structural degradation of carbon support in proton exchange membrane fuel cells
     * Jung A. Hong†, Min-Hyoung Jung†, Sung Yong Cho†, Eun-Byeol Park, Daehee Yang, Young-Hoon Kim, **Sang-Hyeok Yang**, Woo-Sung Jang, Jae Hyuck Jang, Hyo June Lee, Sungchul Lee\*, Hu Young Jeong\*, Young-Min Kim\*
