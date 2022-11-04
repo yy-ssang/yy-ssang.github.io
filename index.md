@@ -54,6 +54,9 @@ email : 0412ysh@skku.edu
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Enhanced selective photocatalytic oxidation of a bio-derived platform chemical with vacancy-induced core-shell anatase TiO<sub>2</sub> nanoparticles
+    * Woo-Sung Jang†, Vy Ngoc Pham†, **Sang-Hyeok Yang**, Jaeyoon Baik, Hangil Lee*, Young-Min Kim*
+    * *Applied Catalysis B-Environmental* 2022 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926337322010815){:target="_blank"}**
   * Segmented tomographic evaluation of structural degradation of carbon support in proton exchange membrane fuel cells
     * Jung A. Hong†, Min-Hyoung Jung†, Sung Yong Cho†, Eun-Byeol Park, Daehee Yang, Young-Hoon Kim, **Sang-Hyeok Yang**, Woo-Sung Jang, Jae Hyuck Jang, Hyo June Lee, Sungchul Lee\*, Hu Young Jeong\*, Young-Min Kim\*
     * *Journal of Energy Chemistry* 2022 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S2095495622004132){:target="_blank"}**
