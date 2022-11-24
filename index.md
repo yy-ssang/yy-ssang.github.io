@@ -45,7 +45,7 @@ email : 0412ysh@skku.edu
 ### Main Paper
   * 1T’ Re<sub>x</sub>Mo<sub>1-x</sub>S<sub>2</sub>–2H MoS<sub>2</sub> lateral heterojunction for enhanced hydrogen evolution reaction performance
     * Huong Thi Thanh Nguyen†, Laud Anim Adofo†, **Sang-Hyeok Yang**†, Hyung-Jin Kim, Soo Ho Choi, Balakrishnan Kirubasankar, Byeong Wook Cho, Andrew Ben-Smith, Joohoon Kang, Young-Min Kim\*, Soo Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
-    * *Advanced Functional Materials* 2022
+    * *Advanced Functional Materials* 2022 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202209572){:target="_blank"}**
   * Hybrid deep learning crystallographic mapping of polymorphic phases in polycrystalline Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> thin films
     * Young-Hoon Kim†, **Sang-Hyeok Yang**†, Myoungho Jeong†, Min-Hyoung Jung, Daehee Yang, Hyangsook Lee, Taehwan Moon, Jinseong Heo, Hu Young Jeong, Eunha Lee\*, Young-Min Kim\*
     * *Small* 2022 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/smll.202107620){:target="_blank"}**
