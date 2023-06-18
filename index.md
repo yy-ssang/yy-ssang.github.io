@@ -44,7 +44,7 @@ email : 0412ysh@skku.edu
 ## Publication
 ### Main Paper
   * Deep learning morphological distribution analysis of metal alloy catalysts in proton exchange membrane fuel cells
-    * **Sang-Hyeok Yang**†, Eun-Byeol Park†, Sung Yong Cho†, Yun Sik Kang, Hyeon-Ah Ju, Yerin Jun, Daehee Yang, Sung-Dae Yim*, Sungchul Lee*, Young-Min Kim\*
+    * **Sang-Hyeok Yang**†, Eun-Byeol Park†, Sung Yong Cho†, Yun Sik Kang, Hyeon-Ah Ju, Yerin Jun, Daehee Yang, Sung-Dae Yim\*, Sungchul Lee\*, Young-Min Kim\*
     * *Materials Today Energy* 2023 **[[Paper]](https://doi.org/10.1016/j.mtener.2023.101348){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/PMA-Net){:target="_blank"}**
   * 1T’ Re<sub>x</sub>Mo<sub>1-x</sub>S<sub>2</sub>–2H MoS<sub>2</sub> lateral heterojunction for enhanced hydrogen evolution reaction performance
     * Huong Thi Thanh Nguyen†, Laud Anim Adofo†, **Sang-Hyeok Yang**†, Hyung-Jin Kim, Soo Ho Choi, Balakrishnan Kirubasankar, Byeong Wook Cho, Andrew Ben-Smith, Joohoon Kang, Young-Min Kim\*, Soo Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
