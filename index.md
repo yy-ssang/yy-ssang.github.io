@@ -31,6 +31,8 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Award
+  * Encouragement Award
+    * 2022 The 8th BK DOES Thesis Competition
   * Best Poster Award 
     * 2022 Materials Research Society (MRS) Spring Meeting
   * Bronze Prize
@@ -99,6 +101,8 @@ email : 0412ysh@skku.edu
     * 6th International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE2020)
 
 ### Poster
+  * Deep learning-based evaluation of the morphological distribution of Pt-based electrocatalysts in proton exchange membrane fuel cells
+    * The 20th International Microscopy Congress (IMC20)
   * Deep learning-assisted quantification of atomic defects in 2D materials
     * Nano Korea 2022 Symposium
   * Deep learning-assisted quantification of atomic defects in 2D materials
