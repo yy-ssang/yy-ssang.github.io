@@ -45,6 +45,9 @@ email : 0412ysh@skku.edu
 
 ## Publication
 ### Main Paper
+  * Is chemical vapor deposition of monolayer WSe<sub>2</sub> comparable to other synthesis routes?
+    * Soo Ho Choi†, **Sang-Hyeok Yang**†, Sehwan Park†, Byeong Wook Cho, Tuan Dung Nguyen, Jung Ho Kim, Young-Min Kim\*, Ki Kang Kim\*, Young Hee Lee\*
+    * *APL Materials* 2023 **[[Paper]](https://doi.org/10.1063/5.0175469){:target="_blank"}** **[[code]](https://github.com/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
   * Deep learning morphological distribution analysis of metal alloy catalysts in proton exchange membrane fuel cells
     * **Sang-Hyeok Yang**†, Eun-Byeol Park†, Sung Yong Cho†, Yun Sik Kang, Hyeon-Ah Ju, Yerin Jeon, Daehee Yang, Sung-Dae Yim\*, Sungchul Lee\*, Young-Min Kim\*
     * *Materials Today Energy* 2023 **[[Paper]](https://doi.org/10.1016/j.mtener.2023.101348){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/PMA-Net){:target="_blank"}**
