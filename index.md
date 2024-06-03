@@ -64,7 +64,7 @@ email : 0412ysh@skku.edu
 ### Contributed Paper
   * Polymorphic Kondo Effects Driven by Spin Lattice Coupling in VTe<sub>2</sub>
     * Dongyeun Won, Do Hoon Kiem, Woohyun Cho, **Sang-Hyeok Yang**, Young-Hoon Kim, Young-Min Kim, Suyeon Cho\*, Myung Joon Han\*, Heejun Yang\*
-    * *Advanced Functional Materials* 2024 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926337322010815){:target="_blank"}**
+    * *Advanced Functional Materials* 2024 **[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180){:target="_blank"}**
   * Enhanced selective photocatalytic oxidation of a bio-derived platform chemical with vacancy-induced core-shell anatase TiO<sub>2</sub> nanoparticles
     * Woo-Sung Jang, Vy Ngoc Pham, **Sang-Hyeok Yang**, Jaeyoon Baik, Hangil Lee\*, Young-Min Kim\*
     * *Applied Catalysis B-Environmental* 2023 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926337322010815){:target="_blank"}**
