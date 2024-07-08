@@ -64,7 +64,7 @@ email : 0412ysh@skku.edu
 ### Contributed Paper
   * Uneven strain relaxation in formamidinium lead triiodide (FAPbI<sub>3</sub>) films upon aging
     * Sooeun Shin, **Sang-Hyeok Yang**, Seongrok Seo, Hyoungmin Park, Urasawadee Amornkitbamrung, Yongjae In, Canjie Wang, Tomoya Nakamura, Atsushi Wakamiya, Young-Min Kim\*, Hyunjung Shin\*
-    * *ACS Energy Letters* 2024 **[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180){:target="_blank"}**
+    * *ACS Energy Letters* 2024 **[[Paper]](https://pubs.acs.org/doi/10.1021/acsenergylett.4c01233){:target="_blank"}**
   * Polymorphic Kondo Effects Driven by Spin Lattice Coupling in VTe<sub>2</sub>
     * Dongyeun Won, Do Hoon Kiem, Woohyun Cho, **Sang-Hyeok Yang**, Young-Hoon Kim, Young-Min Kim, Suyeon Cho\*, Myung Joon Han\*, Heejun Yang\*
     * *Advanced Functional Materials* 2024 **[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180){:target="_blank"}**
