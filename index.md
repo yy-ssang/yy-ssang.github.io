@@ -62,6 +62,9 @@ email : 0412ysh@skku.edu
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Uneven strain relaxation in formamidinium lead triiodide (FAPbI<sub>3</sub>) films upon aging
+    * Sooeun Shin, **Sang-Hyeok Yang**, Seongrok Seo, Hyoungmin Park, Urasawadee Amornkitbamrung, Yongjae In, Canjie Wang, Tomoya Nakamura, Atsushi Wakamiya, Young-Min Kim\*, Hyunjung Shin\*
+    * *ACS Energy Letters* 2024 **[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180){:target="_blank"}**
   * Polymorphic Kondo Effects Driven by Spin Lattice Coupling in VTe<sub>2</sub>
     * Dongyeun Won, Do Hoon Kiem, Woohyun Cho, **Sang-Hyeok Yang**, Young-Hoon Kim, Young-Min Kim, Suyeon Cho\*, Myung Joon Han\*, Heejun Yang\*
     * *Advanced Functional Materials* 2024 **[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313180){:target="_blank"}**
