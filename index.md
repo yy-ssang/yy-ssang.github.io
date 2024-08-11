@@ -31,6 +31,8 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Award
+  * Best Presentation Award
+    * 2024 Korea Society of Microscopy Spring
   * Encouragement Award
     * 2022 The 8th BK DOES Thesis Competition
   * Best Poster Award 
