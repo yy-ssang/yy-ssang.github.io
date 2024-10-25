@@ -64,6 +64,9 @@ email : 0412ysh@skku.edu
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Interfacial contact-driven enhanced environmental photocatalysis of CdS-loaded OH-functionalized carbon nanotubes with low biotoxicity
+    * Hyeon-Ah Ju, Dung Thanh Hoang, Woo-Sung Jang, Young-Hoon Kim, Eun-Byeol Park, **Sang-Hyeok Yang**, Kyuwook Ihm, Young-Min Kim\*, Hangil Lee\*
+    * *Applied Surface Science* 2025 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0169433224019111?via%3Dihub){:target="_blank"}**
   * Multiphase cooperation for multilevel strain accommodation in a single-crystalline BiFeO<sub>3</sub> thin film
     * Wooseon Choi, Bumsu Park, Jaejin Hwang, Gyeongtak Han, **Sang-Hyeok Yang**, Hyeon Jun Lee, Sung Su Lee, Ji Young Jo, Albina Y. Borisevich, Hu Young Jeong, Sang Ho Oh\*, Jaekwang Lee\*, Young-Min Kim\*
     * *Chinese Physics B* 2024 **[[Paper]](https://iopscience.iop.org/article/10.1088/1674-1056/ad62e0/meta){:target="_blank"}**
