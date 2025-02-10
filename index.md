@@ -67,6 +67,9 @@ email : 0412ysh@skku.edu
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * An impermeable copper surface monolayer with high-temperature oxidation resistance
+    * Su Jae Kim, Young-Hoon Kim, Bipin Lamichhane, Binod Regmi, Yousil Lee, **Sang-Hyeok Yang**, Seon Je Kim, Min-Hyoung Jung, Jae Hyuck Jang, Hu Young Jeong, Miaofang Chi, Maeng-Je Seong, Hak Soo Choi, Seong-Gon Kim\*, Young-Min Kim\*, Se-Young Jeong\*
+    * *Nature Communications* 2025 **[[Paper]](https://www.nature.com/articles/s41467-025-56709-w){:target="_blank"}**
   * Interfacial contact-driven enhanced environmental photocatalysis of CdS-loaded OH-functionalized carbon nanotubes with low biotoxicity
     * Hyeon-Ah Ju, Dung Thanh Hoang, Woo-Sung Jang, Young-Hoon Kim, Eun-Byeol Park, **Sang-Hyeok Yang**, Kyuwook Ihm, Young-Min Kim\*, Hangil Lee\*
     * *Applied Surface Science* 2025 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S0169433224019111?via%3Dihub){:target="_blank"}**
