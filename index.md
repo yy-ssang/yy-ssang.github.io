@@ -26,6 +26,8 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Education
+  * **Sungkyunkwan University (SKKU)**, Mar. 2019 ~ Feb. 2025 
+    * Ph.D. in Energy Science
   * **Sungkyunkwan University (SKKU)**, Mar. 2013 ~ Feb. 2019 
     * B.S. in Mechanical Engineering
 <br/>
