@@ -1,7 +1,9 @@
 {% if site.social.email %}
 <li>
   <a href="mailto:{{ site.author.email }}" title="email">
-    <i class="fa-solid fa-envelope"></i>
+    <span class=" fa-lg">
+      <i class="fa-solid fa-envelope"></i>
+    </span>
   </a>
 </li>
 {% endif %}
@@ -64,7 +66,9 @@
 {% if site.social.github %}
 <li>
   <a href="https://github.com/{{ site.social.github }}" title="{{ site.social.default_txt }} GitHub">
-    <i class="fa-brands fa-github"></i>
+    <span class=" fa-lg">
+      <i class="fa-brands fa-github"></i>
+    </span>
   </a>
 </li>
 {% endif %}
@@ -72,7 +76,9 @@
 {% if site.social.google_scholar %}
 <li>
   <a href="https://scholar.google.com/{{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Google Scholar">
-    <i class="fa-brands fa-google-scholar"></i>
+    <span class=" fa-lg">
+      <i class="fa-brands fa-google-scholar"></i>
+    </span>
   </a>
 </li>
 {% endif %}
