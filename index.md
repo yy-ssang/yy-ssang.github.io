@@ -1,4 +1,4 @@
----
+<img width="3754" height="130" alt="image" src="https://github.com/user-attachments/assets/1556cf20-b960-4be8-bf59-349d6c617141" />---
 layout: about 
 ---
 
@@ -33,6 +33,8 @@ email : 0412ysh@skku.edu
 <br/>
 
 ## Award
+  * Young Scientist Award (Silver)
+    * Nano Korea 2025 Symposium
   * Best Presentation Award
     * 2024 Korea Society of Microscopy Spring
   * Encouragement Award
@@ -69,6 +71,9 @@ email : 0412ysh@skku.edu
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Integrated probing of cycling-induced degradation of multi-component electrode in hydrogen fuel cells via machine learning-empowered spectroscopic imaging
+    * Daehee Yang, Young-Hoon Kim, Hyo June Lee, **Sang-Hyeok Yang**, Min Hyoung Jung, Eun-Byeol Park, Hangsik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho, Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang\*, Sungchul Lee\*, Young-Min Kim\*
+    * *Applied Catalysis B-Environmental* 2025 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S092633732500894X){:target="_blank"}**
   * An impermeable copper surface monolayer with high-temperature oxidation resistance
     * Su Jae Kim, Young-Hoon Kim, Bipin Lamichhane, Binod Regmi, Yousil Lee, **Sang-Hyeok Yang**, Seon Je Kim, Min-Hyoung Jung, Jae Hyuck Jang, Hu Young Jeong, Miaofang Chi, Maeng-Je Seong, Hak Soo Choi, Seong-Gon Kim\*, Young-Min Kim\*, Se-Young Jeong\*
     * *Nature Communications* 2025 **[[Paper]](https://www.nature.com/articles/s41467-025-56709-w){:target="_blank"}**
@@ -112,6 +117,12 @@ email : 0412ysh@skku.edu
 
 ## Presentation
 ### Oral
+  * Crystallographic Mapping of Polymorphic Phase Distributions in Doped Hafnia Thin Films using Deep Learning-Embedded 4D-STEM CBED
+    * Nano Korea 2025 Symposium
+  * High-Precision Tilt Orientation Mapping of Fe-Co Superconductor Film with Deep Learning 4D-STEM
+    * 2025 Korean Society of Microscopy Spring
+  * Deep Learning-embedded 4D-STEM Crystallographic Mapping of Polymorphic Phase Distribution in Polycrystalline Oxide Thin Films
+    * 2024 Korean Society of Microscopy Spring
   * Simultaneous mapping of elemental distribution and ionic displacement in multiferroic BiFeO<sub>3</sub> thin film via a picoscale-precision STEM-EDX
     * 2022 Korean Society of Microscopy Spring
   * Deep learning-assisted quantification of atomic dopants and defects in 2D materials
@@ -126,6 +137,10 @@ email : 0412ysh@skku.edu
     * 6th International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE2020)
 
 ### Poster
+  * Deep Learning-embedded 4D-STEM CBED Approach for Mapping Polymorphic Phase Distribution of Doped Hafnia Thin Films
+    * Microscopy & Microanalysis 2025 (M&M2025)
+  * Deep Learning-embedded 4D-STEM Crystallographic Mapping of Polymorphic Phase Distribution in Polycrystalline Oxide Thin Films
+    * Nano Korea 2024 Symposium
   * Deep learning-based evaluation of the morphological distribution of Pt-based electrocatalysts in proton exchange membrane fuel cells
     * The 20th International Microscopy Congress (IMC20)
   * Deep learning-assisted quantification of atomic defects in 2D materials
