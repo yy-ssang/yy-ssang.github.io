@@ -1,4 +1,4 @@
-<img width="3754" height="130" alt="image" src="https://github.com/user-attachments/assets/1556cf20-b960-4be8-bf59-349d6c617141" />---
+---
 layout: about 
 ---
 
