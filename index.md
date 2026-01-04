@@ -2,10 +2,10 @@
 layout: about 
 ---
 
-# About Me
-*One-of-a-kind* of **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}** advised by **[Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ){:target="_blank"}** at **[Sungkyunkwan university(SKKU)](https://www.skku.edu/skku/index.do){:target="_blank"}**
+## About Me
+*One-of-a-kind* at **[Korea Research Institute of Standards and Science (KRISS)](https://www.kriss.re.kr){:target="_blank"}**
 
-email : 0412ysh@skku.edu
+email : syang@kriss.re.kr
 
 <br/>
 
@@ -25,9 +25,16 @@ email : 0412ysh@skku.edu
     * Manifold analysis of 4D-STEM / spectroscopy data
 <br/>
 
+## Research Experience
+  * **Korea Research Institute of Standards and Science (KRISS)**, Jan. 2026 ~ Present 
+    * Senior Researcher in Emerging Material Metrology Group
+  * **Sungkyunkwan University (SKKU)**, Mar. 2025 ~ Dec. 2025 
+    * Postdoctoral Researcher in Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
+<br/>
+
 ## Education
   * **Sungkyunkwan University (SKKU)**, Mar. 2019 ~ Feb. 2025 
-    * Ph.D. in Energy Science
+    * Ph.D. in Energy Science (Advised by **[Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ){:target="_blank"}**)
   * **Sungkyunkwan University (SKKU)**, Mar. 2013 ~ Feb. 2019 
     * B.S. in Mechanical Engineering
 <br/>
