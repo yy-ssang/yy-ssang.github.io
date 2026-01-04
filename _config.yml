@@ -7,8 +7,8 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Sang-Hyeok Yang
-  desc: Postdoctoral Researcher
-  email: 0412ysh@skku.edu
+  desc: Senior Researcher
+  email: syang@kriss.re.kr
   selfie: assets/img/profile.jpg
 
 # social
@@ -23,7 +23,7 @@ social:
   google_scholar: citations?user=xk1pyS0AAAAJ
   instagram:
   keybase:
-  linkedin: yyssang
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
