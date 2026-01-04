@@ -9,6 +9,20 @@ email : syang@kriss.re.kr
 
 <br/>
 
+## Research Experience
+  * **Korea Research Institute of Standards and Science (KRISS)**, Jan. 2026 ~ Present 
+    * Senior Researcher in Emerging Material Metrology Group
+  * **Sungkyunkwan University (SKKU)**, Mar. 2025 ~ Dec. 2025 
+    * Postdoctoral Researcher in Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
+<br/>
+
+## Education
+  * **Sungkyunkwan University (SKKU)**, Mar. 2019 ~ Feb. 2025 
+    * Ph.D. in Energy Science (Advised by **[Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ){:target="_blank"}**)
+  * **Sungkyunkwan University (SKKU)**, Mar. 2013 ~ Feb. 2019 
+    * B.S. in Mechanical Engineering
+<br/>
+
 ## Research Interests / Analysis Techniques
   * Scanning Transmission Electron Microscopy (STEM)
     * STEM imaging
@@ -23,20 +37,6 @@ email : syang@kriss.re.kr
     * Signal enhancement of STEM data
     * Automation of quantitative STEM analysis
     * Manifold analysis of 4D-STEM / spectroscopy data
-<br/>
-
-## Research Experience
-  * **Korea Research Institute of Standards and Science (KRISS)**, Jan. 2026 ~ Present 
-    * Senior Researcher in Emerging Material Metrology Group
-  * **Sungkyunkwan University (SKKU)**, Mar. 2025 ~ Dec. 2025 
-    * Postdoctoral Researcher in Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
-<br/>
-
-## Education
-  * **Sungkyunkwan University (SKKU)**, Mar. 2019 ~ Feb. 2025 
-    * Ph.D. in Energy Science (Advised by **[Prof. Young-Min Kim](https://scholar.google.com/citations?hl=en&user=--VLCRoAAAAJ){:target="_blank"}**)
-  * **Sungkyunkwan University (SKKU)**, Mar. 2013 ~ Feb. 2019 
-    * B.S. in Mechanical Engineering
 <br/>
 
 ## Award
