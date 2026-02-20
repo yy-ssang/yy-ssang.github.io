@@ -13,7 +13,7 @@ email : syang@kriss.re.kr
   * **Korea Research Institute of Standards and Science (KRISS)**, Jan. 2026 ~ Present 
     * Senior Researcher in Emerging Material Metrology Group
   * **Sungkyunkwan University (SKKU)**, Mar. 2025 ~ Dec. 2025 
-    * Postdoctoral Researcher in Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
+    * Postdoctoral Researcher in Department of Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
 <br/>
 
 ## Education
@@ -83,7 +83,7 @@ email : syang@kriss.re.kr
     * *Advanced Functional Materials* 2026 **[[Paper]](https://doi.org/10.1002/adfm.202531464){:target="_blank"}**
   * Integrated probing of cycling-induced degradation of multi-component electrode in hydrogen fuel cells via machine learning-empowered spectroscopic imaging
     * Daehee Yang, Young-Hoon Kim, Hyo June Lee, **Sang-Hyeok Yang**, Min Hyoung Jung, Eun-Byeol Park, Hangsik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho, Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang\*, Sungchul Lee\*, Young-Min Kim\*
-    * *Applied Catalysis B-Environmental* 2025 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S092633732500894X){:target="_blank"}**
+    * *Applied Catalysis B-Environmental* 2026 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S092633732500894X){:target="_blank"}**
   * An impermeable copper surface monolayer with high-temperature oxidation resistance
     * Su Jae Kim, Young-Hoon Kim, Bipin Lamichhane, Binod Regmi, Yousil Lee, **Sang-Hyeok Yang**, Seon Je Kim, Min-Hyoung Jung, Jae Hyuck Jang, Hu Young Jeong, Miaofang Chi, Maeng-Je Seong, Hak Soo Choi, Seong-Gon Kim\*, Young-Min Kim\*, Se-Young Jeong\*
     * *Nature Communications* 2025 **[[Paper]](https://www.nature.com/articles/s41467-025-56709-w){:target="_blank"}**
