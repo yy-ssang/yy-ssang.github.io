@@ -78,6 +78,9 @@ email : syang@kriss.re.kr
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Seed-Assisted Substitutional Doping of the Late 3d-Transition Metals in Transition Metal Dichalcogenides
+    * Enoch Elorm Anthonio, Hang Sik Kim, Balakrishnan Kirubasankar, Jae Woo Kim, Hai Phuong Duong, Hayoung Ko, **Sang-Hyeok Yang**, Hyung-Jin Kim, Laud Anim Adofo, Andrew Ben-Smith, Soo Ho Choi, Soo Min Kim, Young-Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
+    * *Advanced Functional Materials* 2026 **[[Paper]](https://doi.org/10.1002/adfm.202531464){:target="_blank"}**
   * Integrated probing of cycling-induced degradation of multi-component electrode in hydrogen fuel cells via machine learning-empowered spectroscopic imaging
     * Daehee Yang, Young-Hoon Kim, Hyo June Lee, **Sang-Hyeok Yang**, Min Hyoung Jung, Eun-Byeol Park, Hangsik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho, Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang\*, Sungchul Lee\*, Young-Min Kim\*
     * *Applied Catalysis B-Environmental* 2025 **[[Paper]](https://www.sciencedirect.com/science/article/pii/S092633732500894X){:target="_blank"}**
