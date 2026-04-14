@@ -58,7 +58,9 @@ email : syang@kriss.re.kr
 
 ## Publication
 ### Main Paper
-  * Sparse section imaging-based deep learning electron tomography of porous carbon supports in proton exchange membrane fuel cells
+  * Machine-learning-driven integrated probing of oxygen-vacancy distribution and ionomer morphology in iridium oxide catalyst–ionomer nanocomposite electrode for water electrolyzer
+    * Yerin Jeon†, **Sang-Hyeok Yang†**, Hyeon-Ah Ju†, Kwanhong Park†, Wooseon Choi, Daehee Yang, Hakjoo Lee, Dami Lim, Shin Jang, Jaekwang Lee\*, Jae-Hyeok Kim\*, Young-Min Kim\*
+    * *Journal of Materials Chemistry A* 2026 **[[Paper]](https://doi.org/10.1039/D5TA08480F){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/ESICharWE){:target="_blank"}**  * Sparse section imaging-based deep learning electron tomography of porous carbon supports in proton exchange membrane fuel cells
     * **Sang-Hyeok Yang**†, Yerin Jeon†, Min-Hyoung Jung†, Sung Yong Cho†, Eun-Byeol Park, Daehee Yang, Hyo June Lee, Yun Sik Kang, Chang Hyun Lee, Sung-Dae Yim\*, Hu Young Jeong\*, Sungchul Lee\*, Young-Min Kim\*
     * *Journal of Energy Chemistry* 2025 **[[Paper]](https://doi.org/10.1016/j.jechem.2025.01.018){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/PCT-Net){:target="_blank"}**
   * Is chemical vapor deposition of monolayer WSe<sub>2</sub> comparable to other synthesis routes?
