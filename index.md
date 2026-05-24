@@ -13,7 +13,7 @@ email : syang@kriss.re.kr
   * **Korea Research Institute of Standards and Science (KRISS)**, Jan. 2026 ~ Present 
     * *Senior Researcher* in Emerging Material Metrology Group
   * **Sungkyunkwan University (SKKU)**, Mar. 2025 ~ Dec. 2025 
-    * *Postdoctoral Researcher* in Department of Energy Science **[SKKU-STEM group](https://sites.google.com/site/skkustem/home){:target="_blank"}**
+    * *Postdoctoral Researcher* in Department of Energy Science **[SKKU-STEM group](https://skkustem.org){:target="_blank"}**
 <br/>
 
 ## Education
