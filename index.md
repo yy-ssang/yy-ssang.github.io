@@ -58,6 +58,9 @@ email : syang@kriss.re.kr
 
 ## Publication
 ### Main Paper
+  * High-precision texture analysis of Fe-Co metal thin films via deep-learning four-dimensional scanning transmission electron microscopy
+    * Young-Hoon Kim†\*, **Sang-Hyeok Yang†**, Su Jae Kim, Su-Hyeon Nam, Jeong-Hyeon Jo, Se-Young Jeong, Ho-Sup Kim\*, Young-Min Kim\*
+    * *npj Computational Materials* 2026 **[[Paper]](https://doi.org/10.1038/s41524-026-02190-y){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/4DSTEM_DeepTILT){:target="_blank"}**
   * Machine-learning-driven integrated probing of oxygen-vacancy distribution and ionomer morphology in iridium oxide catalyst–ionomer nanocomposite electrode for water electrolyzer
     * Yerin Jeon†, **Sang-Hyeok Yang†**, Hyeon-Ah Ju†, Kwanhong Park†, Wooseon Choi, Daehee Yang, Hakjoo Lee, Dami Lim, Shin Jang, Jaekwang Lee\*, Jae-Hyeok Kim\*, Young-Min Kim\*
     * *Journal of Materials Chemistry A* 2026 **[[Paper]](https://doi.org/10.1039/D5TA08480F){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/ESICharWE){:target="_blank"}**
