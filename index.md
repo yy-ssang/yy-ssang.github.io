@@ -84,6 +84,9 @@ email : syang@kriss.re.kr
     * *Advanced Science* 2021 **[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101099){:target="_blank"}** **[[code]](https://github.com/SKKU-STEM/2D_TMD_Quantification_with_Deeplearning){:target="_blank"}**
 
 ### Contributed Paper
+  * Two-Stage Electromigration Mechanism in Cu–Cu Direct Bonding Lines Revealed by In Situ Four-Dimensional Scanning Transmission Electron Microscopy
+    * Eun-Byeol Park, Min-Hyoung Jung, Su Jae Kim, **Sang-Hyeok Yang**, Se-Young Jeong\*, Hu Young Jeong\*, Young-Min Kim\* Young-Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
+    * *ACS Nano* 2026 **[[Paper]](https://doi.org/10.1021/acsnano.6c06734){:target="_blank"}**
   * Seed-Assisted Substitutional Doping of the Late 3d-Transition Metals in Transition Metal Dichalcogenides
     * Enoch Elorm Anthonio, Hang Sik Kim, Balakrishnan Kirubasankar, Jae Woo Kim, Hai Phuong Duong, Hayoung Ko, **Sang-Hyeok Yang**, Hyung-Jin Kim, Laud Anim Adofo, Andrew Ben-Smith, Soo Ho Choi, Soo Min Kim, Young-Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
     * *Advanced Functional Materials* 2026 **[[Paper]](https://doi.org/10.1002/adfm.202531464){:target="_blank"}**
