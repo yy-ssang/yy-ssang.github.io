@@ -85,7 +85,7 @@ email : syang@kriss.re.kr
 
 ### Contributed Paper
   * Two-Stage Electromigration Mechanism in Cu–Cu Direct Bonding Lines Revealed by In Situ Four-Dimensional Scanning Transmission Electron Microscopy
-    * Eun-Byeol Park, Min-Hyoung Jung, Su Jae Kim, **Sang-Hyeok Yang**, Se-Young Jeong\*, Hu Young Jeong\*, Young-Min Kim\* Young-Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
+    * Eun-Byeol Park, Min-Hyoung Jung, Su Jae Kim, **Sang-Hyeok Yang**, Se-Young Jeong\*, Hu Young Jeong\*, Young-Min Kim\*
     * *ACS Nano* 2026 **[[Paper]](https://doi.org/10.1021/acsnano.6c06734){:target="_blank"}**
   * Seed-Assisted Substitutional Doping of the Late 3d-Transition Metals in Transition Metal Dichalcogenides
     * Enoch Elorm Anthonio, Hang Sik Kim, Balakrishnan Kirubasankar, Jae Woo Kim, Hai Phuong Duong, Hayoung Ko, **Sang-Hyeok Yang**, Hyung-Jin Kim, Laud Anim Adofo, Andrew Ben-Smith, Soo Ho Choi, Soo Min Kim, Young-Min Kim\*, Young-Kyu Han\*, Ki Kang Kim\*
